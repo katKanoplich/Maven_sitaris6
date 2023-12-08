@@ -1,0 +1,99 @@
+<games>
+    <game>
+        <id>1</id>
+        <name>Game 1</name>
+        <price>10</price>
+        <genre>Action</genre>
+        <platform>PC</platform>
+        <releaseYear>2020</releaseYear>
+        <developer>Developer 1</developer>
+    </game>
+    <game >
+        <id>2</id>
+        <name>Game 2</name>
+        <price>19</price>
+        <genre>RPG</genre>
+        <platform>PlayStation 4</platform>
+        <releaseYear>2018</releaseYear>
+        <developer>Developer 2</developer>
+    </game>
+    <game>
+        <id>3</id>
+
+        <name>Game 3</name>
+        <price>29</price>
+        <genre>Adventure</genre>
+        <platform>Xbox One</platform>
+        <releaseYear>2019</releaseYear>
+        <developer>Developer 3</developer>
+    </game>
+    <game >
+        <id>4</id>
+        <name>Game 4</name>
+        <price>14</price>
+        <genre>Sports</genre>
+        <platform>Nintendo Switch</platform>
+        <releaseYear>2021</releaseYear>
+        <developer>Developer 4</developer>
+    </game>
+    <game >
+        <id>5</id>
+
+        <name>Game 5</name>
+        <price>39</price>
+        <genre>Shooter</genre>
+        <platform>PC</platform>
+        <releaseYear>2022</releaseYear>
+        <developer>Developer 5</developer>
+    </game>
+    <game >
+        <id>6</id>
+
+        <name>Game 6</name>
+        <price>24</price>
+        <genre>Strategy</genre>
+        <platform>PC</platform>
+        <releaseYear>2017</releaseYear>
+        <developer>Developer 6</developer>
+    </game>
+    <game>
+        <id>7</id>
+
+        <name>Game 7</name>
+        <price>9</price>
+        <genre>Puzzle</genre>
+        <platform>Mobile</platform>
+        <releaseYear>2020</releaseYear>
+        <developer>Developer 7</developer>
+    </game>
+    <game >
+        <id>8</id>
+
+        <name>Game 8</name>
+        <price>34</price>
+        <genre>Role-Playing</genre>
+        <platform>PlayStation 5</platform>
+        <releaseYear>2023</releaseYear>
+        <developer>Developer 8</developer>
+    </game>
+<!--    <game >-->
+<!--        <id>9</id>-->
+
+<!--        <name>Game 9</name>-->
+<!--        <price>19</price>-->
+<!--        <genre>Simulation</genre>-->
+<!--        <platform>PC</platform>-->
+<!--        <releaseYear>2019</releaseYear>-->
+<!--        <developer>Developer 9</developer>-->
+<!--    </game>-->
+<!--    <game>-->
+<!--        <id>10</id>-->
+
+<!--        <name>Game 10</name>-->
+<!--        <price>29</price>-->
+<!--        <genre>Adventure</genre>-->
+<!--        <platform>Xbox Series X</platform>-->
+<!--        <releaseYear>2021</releaseYear>-->
+<!--        <developer>Developer 10</developer>-->
+<!--    </game>-->
+</games>
